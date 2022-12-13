@@ -1,0 +1,57 @@
+body,
+html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+.content {
+    margin: 0 auto;
+    width: 1200px;
+    color: azure
+}
+
+
+.header {
+    color: rgb(46, 235, 43);
+}
+
+table,
+td,
+th {
+    /* border: 1px solid #aaa; */
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+
+}
+
+td {
+    text-align: left;
+    height: 30px;
+}
+
+.form {
+    margin: 30px;
+    text-align: center;
+}
+
+#content {
+    width: 70%;
+    height: 20px;
+}
+
+.title {
+    font-size: 15pt;
+    font-weight: 1000;
+}
+
+.url {
+    font-size: 12px;
+}
